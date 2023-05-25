@@ -1,0 +1,11 @@
+bin/
+.env
+etc/
+.git
+include/
+lib/
+lib64
+pyvenv.cfg
+test_environment.py
+share/
+
